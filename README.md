@@ -1,0 +1,2 @@
+# repoSettingsCommit
+for test GitHubSettingsVsGitHubCommitApiTest
